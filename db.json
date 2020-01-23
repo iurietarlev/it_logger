@@ -1,36 +1,41 @@
 {
   "logs": [
     {
-      "id": 3,
-      "message": "Hehehe, I edited this log",
+      "message": "Hello World",
       "attention": true,
-      "tech": "Iurie Tarlev",
-      "date": "2020-01-23T02:26:29.664Z"
+      "tech": "Gillian Willson",
+      "date": "2020-01-23T02:59:56.731Z",
+      "id": 1
     },
     {
-      "message": "Failure of  Lights",
+      "message": "Problem with machine 001",
+      "attention": true,
+      "tech": "Jim Hedge",
+      "date": "2020-01-23T03:00:16.622Z",
+      "id": 2
+    },
+    {
+      "message": "Screen failed on machine 10",
       "attention": false,
-      "tech": "John Habarov",
-      "date": "2020-01-23T02:41:19.306Z",
-      "id": 4
-    },
-    {
-      "message": "Need to make this group project work",
-      "attention": true,
-      "tech": "David  Hilman",
-      "date": "2020-01-23T02:42:14.582Z",
-      "id": 5
+      "tech": "John Smith",
+      "date": "2020-01-23T03:00:31.808Z",
+      "id": 3
     }
   ],
   "techs": [
     {
       "firstName": "John",
-      "lastName": "Habarov",
+      "lastName": "Smith",
       "id": 1
     },
     {
-      "firstName": "Pablo",
-      "lastName": "Escobar",
+      "firstName": "Gillian",
+      "lastName": "Willson",
+      "id": 2
+    },
+    {
+      "firstName": "Jim",
+      "lastName": "Hedge",
       "id": 3
     }
   ]
