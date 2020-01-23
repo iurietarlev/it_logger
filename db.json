@@ -1,54 +1,37 @@
 {
   "logs": [
     {
-      "message": "Changed network card in server 007",
-      "attention": false,
-      "tech": "Sam Smith",
-      "date": "2019-05-31T15:46:10.179Z",
-      "id": 1
-    },
-    {
-      "id": 2,
-      "message": "Fixed hard drive on workstation 002",
-      "attention": false,
-      "tech": "John Doe",
-      "date": "2019-05-31T16:18:04.245Z"
-    },
-    {
-      "message": "1122 wireless down",
+      "id": 3,
+      "message": "Hehehe, I edited this log",
       "attention": true,
-      "tech": "Sara Wilson",
-      "date": "2019-05-31T15:46:48.690Z",
-      "id": 3
+      "tech": "Iurie Tarlev",
+      "date": "2020-01-23T02:26:29.664Z"
     },
     {
-      "id": 4,
-      "message": "Workstation 026 is up and running",
+      "message": "Failure of  Lights",
       "attention": false,
-      "tech": "Sara Wilson",
-      "date": "2019-05-31T19:57:35.544Z"
+      "tech": "John Habarov",
+      "date": "2020-01-23T02:41:19.306Z",
+      "id": 4
+    },
+    {
+      "message": "Need to make this group project work",
+      "attention": true,
+      "tech": "David  Hilman",
+      "date": "2020-01-23T02:42:14.582Z",
+      "id": 5
     }
   ],
   "techs": [
     {
-      "id": 1,
       "firstName": "John",
-      "lastName": "Doe"
+      "lastName": "Habarov",
+      "id": 1
     },
     {
-      "id": 2,
-      "firstName": "Sam",
-      "lastName": "Smith"
-    },
-    {
-      "id": 3,
-      "firstName": "Sara",
-      "lastName": "Wilson"
-    },
-    {
-      "firstname": "Jen",
-      "lastName": "Williams",
-      "id": 4
+      "firstName": "Pablo",
+      "lastName": "Escobar",
+      "id": 3
     }
   ]
 }
